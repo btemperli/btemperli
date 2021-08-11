@@ -7,7 +7,7 @@ $ whoami: btemperli
 🔭 I'm currently working on:
 
 - my own revealjs-presentation-platform based on [hakimel/reveal.js](https://github.com/hakimel/reveal.js)
-- some stuff for my school like [raspberry pi stuff](https://github.com/kanti-glarus/raspberry-pi-ergaenzungsfach) or [web education](https://github.com/kanti-glarus/web-script)
+- some stuff for my [school](https://github.com/kanti-glarus) like [raspberry pi stuff](https://github.com/kanti-glarus/raspberry-pi-ergaenzungsfach) or [web education](https://github.com/kanti-glarus/web-script)
 
 
 
