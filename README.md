@@ -10,6 +10,10 @@ $ whoami: btemperli
 - some stuff for my [school](https://github.com/kanti-glarus) like [raspberry pi stuff](https://github.com/kanti-glarus/raspberry-pi-ergaenzungsfach) or [web education](https://github.com/kanti-glarus/web-script)
 
 
+🤔 You are looking for my stats?
+
+![btemperli's github stats](https://github-readme-stats.vercel.app/api?username=btemperli&show_icons=true&theme=algolia&hide_title=true) |
+
 
 <!--
 **btemperli/btemperli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
