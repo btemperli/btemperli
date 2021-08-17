@@ -12,7 +12,7 @@ $ whoami: btemperli
 
 🤔 You are looking for my stats?
 
-![btemperli's github stats](https://github-readme-stats.vercel.app/api?username=btemperli&show_icons=true&theme=algolia&hide_title=true) |
+![btemperli's github stats](https://github-readme-stats.vercel.app/api?username=btemperli&show_icons=true&theme=radical&hide_title=true)
 
 
 <!--
