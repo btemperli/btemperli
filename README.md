@@ -12,8 +12,10 @@ $ whoami: btemperli
 
 🤔 You are looking for my stats?
 
-![btemperli's github stats](https://github-readme-stats.vercel.app/api?username=btemperli&show_icons=true&theme=radical&hide_title=true)
-
+<div align="center">
+  <img src="https://github.com/btemperli/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://github.com/btemperli/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
+</div>
 
 <!--
 **btemperli/btemperli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
